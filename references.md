@@ -1,1 +1,3 @@
-This text will conflict with the references.md located in main.
+# References
+
+* octocat 1 😈
